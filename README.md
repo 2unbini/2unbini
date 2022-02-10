@@ -1,13 +1,13 @@
 ```
     _____
    /    /|_ ___________________________________________
-  /    // /|                                          /|        ii        oo         sssss          dddd       eeeeee   vv     vv
- (====|/ //   An apple a day...            _QP_      / |        ii      oo  oo      ss              d   dd     e        vv     vv
-  (=====|/     keeps me working all day   (  ' )    / .|              oo      oo   ss               d    dd    e        vv     vv
- (====|/                                   \__/    / /||        ii    oo      oo     sssss          d     dd   eeeeee    vv   vv
-/_________________________________________________/ / ||        ii    oo      oo         ss         d    dd    e          vv vv
-|  _____________________________________________  ||  ||        ii      oo  oo            ss        d   dd     e           vvv
-| ||                                            | ||            ii        oo         ssssss         dddd       eeeeee       v
+  /    // /|                                          /| 
+ (====|/ //   An apple a day...            _QP_      / |        
+  (=====|/     keeps me working all day   (  ' )    / .|        
+ (====|/                                   \__/    / /||        
+/_________________________________________________/ / ||        
+|  _____________________________________________  ||  ||       
+| ||                                            | || 
 | ||                                            | ||
 | |                                             | |  pjb
 
